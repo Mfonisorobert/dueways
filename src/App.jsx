@@ -23,11 +23,13 @@ const App = () => {
           <Route path="/track-order" element={<TrackOrder />} />
           <Route path="/feedback" element={<Feedback />} />
           <Route path="/submit-work" element={<SubmitWork />} />
-          <Route path="/footer" element={<Footer />} />
 
         </Routes>
+        </div>
+
+        {/* Footer always visible */}
+        <Footer />
       </div>
-    </div>
   );
 };
 
