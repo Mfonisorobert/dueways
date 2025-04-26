@@ -14,7 +14,7 @@ function Home() {
             <p className="text-lg mb-6">
               Your one-stop solution for Professional Designs, World-Class Printing, and Branding.
             </p>
-            <div className="space-x-4">
+            <div className="space-x-4 md:flex lg-flex-col sm:flex">
               <Link to="/submit-work" className="bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold hover:bg-blue-100">
                 Submit a Work
               </Link>
