@@ -37,11 +37,11 @@ const Navbar = () => {
   const toggleMenu = () => setIsOpen(!isOpen);
 
   return (
-    <nav className="bg-blue-950 shadow-md sticky top-0 z-50">
+    <nav className="bg-blue-900 shadow-md sticky top-0 z-50">
       <div className="container mx-auto flex justify-between items-center px-4 py-4">
         {/* Logo */}
         <Link to="/" className="text-2xl font-bold text-white">
-          <div className="md:w-[30%]  w-[50%]">
+          <div className="md:w-[30%]  w-[40%]">
             <img 
             src="/DLogo.png" alt="Logo" className="rounded-lg " />
           </div>
