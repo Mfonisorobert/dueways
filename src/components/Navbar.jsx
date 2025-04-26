@@ -41,7 +41,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center px-4 py-4">
         {/* Logo */}
         <Link to="/" className="text-2xl font-bold text-white">
-          <div className="md:w-[30%]  ">
+          <div className="md:w-[30%]  w-[50%]">
             <img 
             src="/DLogo.png" alt="Logo" className="rounded-lg " />
           </div>
