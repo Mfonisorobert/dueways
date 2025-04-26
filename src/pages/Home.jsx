@@ -45,15 +45,15 @@ function Home() {
         <div className="container mx-auto px-6">
           <h2 className="text-3xl font-bold text-center mb-10">Our Core Services</h2>
           <div className="grid md:grid-cols-3 gap-8">
-            <div className="bg-blue-600 p-6 rounded-lg shadow-sky-400 shadow-md hover:shadow-lg transition">
+            <div className="bg-gradient-to-r from-blue-600 to-purple-950 p-6 rounded-lg shadow-sky-400 shadow-md hover:shadow-lg transition">
               <h3 className="text-xl font-bold mb-4 text-white">Design</h3>
               <p className="text-white">Create stunning visual identities for businesses, products, and events.</p>
             </div>
-            <div className="bg-blue-600 p-6 rounded-lg shadow-sky-400 shadow-md hover:shadow-lg transition">
+            <div className="bg-gradient-to-r from-blue-600 to-purple-950 p-6 rounded-lg shadow-sky-400 shadow-md hover:shadow-lg transition">
               <h3 className="text-xl font-bold mb-4 text-white">Printing</h3>
               <p className="text-white">DI Printing, Large Format, T-Shirts, Monogramming, Flyers, Banners, and much more!</p>
             </div>
-            <div className="bg-blue-600 p-6 rounded-lg shadow-sky-400 shadow-md hover:shadow-lg transition">
+            <div className="bg-gradient-to-r from-blue-600 to-purple-950 p-6 rounded-lg shadow-sky-400 shadow-md hover:shadow-lg transition">
               <h3 className="text-xl font-bold mb-4 text-white">Branding</h3>
               <p className="text-white">We handle corporate branding, vehicle branding, and promotional items for businesses.</p>
             </div>
