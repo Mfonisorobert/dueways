@@ -60,7 +60,7 @@ const Navbar = () => {
         {/* Mobile Hamburger */}
         <div className="md:hidden flex items-center">
           <button
-            className="text-indigo-700 focus:outline-none"
+            className="text-white focus:outline-none"
             onClick={toggleMenu}
           >
             {isOpen ? (
