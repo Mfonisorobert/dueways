@@ -35,7 +35,7 @@ function Home() {
         <div className="container mx-auto px-6">
           <h2 className="text-3xl font-bold text-center mb-10">About Dueways Limited</h2>
           <p className="text-center text-lg text-gray-700 max-w-4xl mx-auto">
-            At Dueways Limited, we specialize in delivering top-notch designs, printing (DI, Large Format, Monogramming, T-Shirt, and more), and outstanding branding services like vehicle branding. We combine creativity with technology to give your brand the standout visibility it deserves.
+            At Dueways Innovations, we specialize in delivering top-notch designs, printing (DI, Large Format, Monogramming, T-Shirt, and more), and outstanding branding services like vehicle branding. We combine creativity with technology to give your brand the standout visibility it deserves.
           </p>
         </div>
       </section>
@@ -45,16 +45,16 @@ function Home() {
         <div className="container mx-auto px-6">
           <h2 className="text-3xl font-bold text-center mb-10">Our Core Services</h2>
           <div className="grid md:grid-cols-3 gap-8">
-            <div className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition">
-              <h3 className="text-xl font-bold mb-4 text-blue-600">Design</h3>
+            <div className="bg-blue-900 p-6 rounded-lg shadow-sky-400 shadow-md hover:shadow-lg transition">
+              <h3 className="text-xl font-bold mb-4 text-white">Design</h3>
               <p>Create stunning visual identities for businesses, products, and events.</p>
             </div>
-            <div className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition">
-              <h3 className="text-xl font-bold mb-4 text-blue-600">Printing</h3>
+            <div className="bg-blue-900 p-6 rounded-lg shadow-sky-400 shadow-md hover:shadow-lg transition">
+              <h3 className="text-xl font-bold mb-4 text-white">Printing</h3>
               <p>DI Printing, Large Format, T-Shirts, Monogramming, Flyers, Banners, and much more!</p>
             </div>
-            <div className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition">
-              <h3 className="text-xl font-bold mb-4 text-blue-600">Branding</h3>
+            <div className="bg-blue-900 p-6 rounded-lg shadow-sky-400 shadow-md hover:shadow-lg transition">
+              <h3 className="text-xl font-bold mb-4 text-white">Branding</h3>
               <p>We handle corporate branding, vehicle branding, and promotional items for businesses.</p>
             </div>
           </div>
